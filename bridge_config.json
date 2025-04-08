@@ -1,0 +1,18 @@
+{
+    "src_chain": "Base",
+    "dst_chain": "Abstract",
+    "private_keys_file": "private_keys.txt",
+    "min_amount": 0.00055,
+    "max_amount": 0.00065,
+    "min_delay": 10,
+    "max_delay": 15,
+    "min_transactions": 100,
+    "max_transactions": 150,
+    "auto_refill": true,
+    "refill_percent": 96,
+    "collect_percent": 95,
+    "threads": 3,
+    "min_bridge_amount": 0.00055,
+    "runs": 5,
+    "pause_between_runs": 300
+}
